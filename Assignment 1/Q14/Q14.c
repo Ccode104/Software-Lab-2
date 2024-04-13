@@ -11,6 +11,7 @@
 
 
 char *strlwr(char *);
+
 int main()
 {
     FILE *fptr;
